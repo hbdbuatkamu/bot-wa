@@ -1,0 +1,14 @@
+{
+  "profit": {
+    "user": 1.05,
+    "gold": 1.03,
+    "silver": 1.02,
+    "dev": 1.05
+  },
+  "output": {
+    "user": "5%",
+    "silver": "3",
+    "gold": "2",
+    "dev": "5%"
+  }
+}
