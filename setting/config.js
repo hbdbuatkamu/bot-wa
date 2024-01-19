@@ -6,7 +6,7 @@ const moment = require('moment-timezone');
 
 
 
-global.ownerr = "6289673129395"; //untuk send receipt data
+global.ownerr = "6281382493073"; //untuk send receipt data
 //━━━━━━━━━━━━━━━[ DATA BOT ]━━━━━━━━━━━━━━━━━//
 global.owner = ["6289673129395"];             // Isi Jadi Nomer Owner
 global.packname = "NashBot";    // Isi Jadi Nama Bot
