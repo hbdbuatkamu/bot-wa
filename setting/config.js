@@ -6,17 +6,17 @@ const moment = require('moment-timezone');
 
 
 
-global.ownerr = "62****"; //untuk send receipt data
+global.ownerr = "6289673129395"; //untuk send receipt data
 //━━━━━━━━━━━━━━━[ DATA BOT ]━━━━━━━━━━━━━━━━━//
-global.owner = ["62****"];             // Isi Jadi Nomer Owner
-global.packname = "Digezz";    // Isi Jadi Nama Bot
-global.author = "ownOnly";             // Nama Owner atau biarin saja
+global.owner = ["6289673129395"];             // Isi Jadi Nomer Owner
+global.packname = "NashBot";    // Isi Jadi Nama Bot
+global.author = "iNash";             // Nama Owner atau biarin saja
 global.versionscript = "5.4.0"; 
 global.session = "session";
 
 //━━━━━━━━━━━━━━━[ DATA DIGIFLAZZ ]━━━━━━━━━━━━━━━━━//
-global.userme = "kosong";    // ISI USERNAME DIGI
-global.production = "kosong"    // ISI PRODUCTION DIGI; 
+global.userme = "zalobagq7bQD";    // ISI USERNAME DIGI
+global.production = "250342ad-042d-5a7f-93f4-293addad28ae"    // ISI PRODUCTION DIGI; 
 
 //━━━━━━━━━━━━━━━[ DATA TOKOVOUCHER ]━━━━━━━━━━━━━━━━━//
 global.membercode = "kosong";    // ISI MEMBER CODE TOKOV
